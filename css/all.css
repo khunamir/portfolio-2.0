@@ -688,13 +688,14 @@ h2.slogan {
   padding: 5px 0 18px 80px;
 }
 .box_contact span.email {
-  background: url(../images/icon_email2.png) no-repeat;
+  background: url(../images/email-54.png) no-repeat;
 }
-.box_contact span.phone {
-  background: url(../images/icon_phone.png) no-repeat;
+.box_contact span.linkedin {
+  background: url(../images/linkedin-54.png) no-repeat;
+  width: '100px';
 }
-.box_contact span.skype {
-  background: url(../images/icon_skype.png) no-repeat;
+.box_contact span.github {
+  background: url(../images/github-54.png) no-repeat;
 }
 /*footer
  */
@@ -724,9 +725,9 @@ h2.slogan {
   border-radius: 50%;
   behavior: url(css/PIE.htc);
   text-indent: -9999px;
-  background: #afd3fe;
-  width: 50px;
-  height: 50px;
+  background: #338fff;
+  width: 60px;
+  height: 60px;
   position: relative;
   display: table;
 }
